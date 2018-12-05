@@ -1,0 +1,12 @@
+{
+    "ID":"76ce45c3b16f5eaea25c328f2f4e384e",
+    "ActionKeyword":"lp",
+    "Name":"LastPass",
+    "Description":"Use this plugin to search and copy a password into your lastpass vault",
+    "Author":"Xavier Beurois",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"Images\\lp.ico",
+    "ExecuteFileName":"main.py"
+}
